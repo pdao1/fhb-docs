@@ -1,0 +1,11 @@
+{
+  "name": "docsify-fhb-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "keywords": [],
+  "dependencies": {
+    "docsify": "^4.13.1",
+    "docsify-cli": "^4.4.4"
+  }
+}
