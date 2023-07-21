@@ -1,0 +1,28 @@
+ :root {
+	--fhb-red: #B31F29;
+	--fhb-yellow: #FEC443;
+	--fhb-dark-red: #821617;
+	--fhb-black: #474747;
+	--black: #000000;
+  }
+
+    .search {
+      border-bottom: 1px solid gray !important;
+    }
+    div.sidebar-toggle-button {
+      top: 0 !important;
+      left: 0 !important;
+      padding: 20px;
+      position: fixed;
+    }
+    aside.sidebar {
+      margin-top: 50px;
+    }
+    .input-wrap {
+      box-shadow: 0 0 5px #821617;
+      border: 1px solid #B31F29;
+    }
+    .markdown-section h3 {
+      font-size: 1.2rem !important;
+      margin: 40px 0 0.6rem;
+    }
